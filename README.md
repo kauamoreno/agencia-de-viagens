@@ -23,7 +23,7 @@ Projeto sobre uma agência de viagens que vende pacotes para três tipos de clie
 -> Faça reserva para cada um desses cliente. Cada cliente deverá levar de dois a três acompanhantes.<br/>
 
 No final, crie um loop de repetição para a impressão:
-* os dados do cliente;
+* Os dados do cliente;
 * O destino;
 * A data de check-in e checkout;
 * O valor bruto e o valor descontado de acordo com a classe do cliente.
